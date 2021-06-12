@@ -38,5 +38,5 @@ Oi pessoal 👋 !! Me chamo Fernando, sou de Uberlândia-MG, Brasil. Atualmente 
   <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=fgosuen&show_icons=true" alt="fgosuen" />
 </a>
 <a href="https://github.com/fgosuen">
-  <img align="center" width="336px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgosuen&layout=compact&theme=dracula" alt="fgosuen" />
+  <img align="center" width="336px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgosuen&layout=compact" alt="fgosuen" />
 </a>
