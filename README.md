@@ -1,11 +1,11 @@
 Oi pessoal 👋 !! Me chamo Fernando, sou de Uberlândia-MG, Brasil. Atualmente estou realizando meus estudos na [Trybe](https://www.betrybe.com/) para me tornar um **Desenvolvedor Full-Stack Júnior** 🚀.
 
-- 👩🏽‍💻 Desenvolvedora full-stack
-- 💻 Estudando **Javascript** e **Python**
-- 👩🏽‍🎓 Acredito que sempre podemos aprender com todas as situações, sejam boas ou ruins
-- 💬 Colaboração é o segredo!
-- 📬 Para entrar em contato comigo, por favor, envie um email para `fgosuendacosta@gmail.com`
-- 📄 Dê uma olhada no meu [Currículo](https://fgosuen.github.io)
+- 👩🏽‍💻 Desenvolvedor full-stack;
+- 💻 Estudando **Javascript** e **Python**;
+- 👩🏽‍🎓 Acredito que sempre podemos aprender com todas as situações, sejam boas ou ruins;
+- 💬 Colaboração é o segredo!;
+- 📬 Para entrar em contato comigo, por favor, envie um email para `fgosuendacosta@gmail.com`;
+- 📄 Dê uma olhada no meu [Currículo](https://fgosuen.github.io);
 
 **Tecnologias e ferramentas**
 
