@@ -18,6 +18,7 @@ Oi pessoal 👋 !! Me chamo Fernando, sou de Uberlândia-MG, Brasil. Atualmente 
 ![Java_Badge](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![ReactJS Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
 ![Redux Badge](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)
+![Context Badge](https://img.shields.io/badge/-Context-61DAFB?style=flat-square&logo=React&logoColor=black)
 ![Hooks Badge](https://img.shields.io/badge/-Hooks-61DAFB?style=flat-square&logo=React&logoColor=black)
 ![React Testing Library Badge](https://img.shields.io/badge/-RTL-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node Badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
