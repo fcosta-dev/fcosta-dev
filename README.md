@@ -23,7 +23,6 @@ Oi pessoal 👋 !! Me chamo Fernando, sou de Uberlândia-MG, Brasil. Atualmente 
 ![React Testing Library Badge](https://img.shields.io/badge/-RTL-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node Badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Django_Badge](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Angular_Badge](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Express Badge](https://img.shields.io/badge/-Express.js-grey?style=flat-square&logo=expressjs&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
