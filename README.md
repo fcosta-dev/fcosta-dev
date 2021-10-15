@@ -42,7 +42,9 @@ Oi pessoal 👋 !! Me chamo Fernando, sou de Uberlândia-MG, Brasil. Atualmente 
 </a>
 
 <details>
-  <summary>Mensagem de teste</summary>
+  <summary>Indicadores Adicionais</summary>
+
   <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
+  
 </details>
