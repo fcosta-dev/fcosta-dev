@@ -43,11 +43,7 @@ Oi pessoal 👋 !! Me chamo Fernando, sou de Uberlândia-MG, Brasil. Atualmente 
 
 <details>
   
-  <summary>
-    
-    Indicadores Adicionais
-  
-  </summary>
+  <summary>Indicadores Adicionais</summary>
 
   <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
