@@ -40,3 +40,10 @@ Oi pessoal 👋 !! Me chamo Fernando, sou de Uberlândia-MG, Brasil. Atualmente 
 <a href="https://github.com/fgosuen">
   <img align="center" width="336px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgosuen&layout=compact" alt="fgosuen" />
 </a>
+
+<details>
+  <summary>Mensagem de teste</summary>
+  <!--START_SECTION:waka-->
+  
+  <!--END_SECTION:waka-->
+</details>
