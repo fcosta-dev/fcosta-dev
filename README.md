@@ -46,7 +46,7 @@ Oi pessoal 👋 !! Me chamo Fernando, sou de Uberlândia-MG, Brasil. Atualmente 
   <summary>Indicadores Adicionais</summary>
 
   <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-46-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-47-blue)
 
 **🐱 My GitHub Data** 
 
@@ -122,7 +122,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/fgosuen/fgosuen/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/10/2021
+ Last Updated on 17/10/2021
 <!--END_SECTION:waka-->
   
 </details>
