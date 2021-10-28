@@ -1,40 +1,37 @@
-# **Apresentação**
+# I'm Fernando 🚀
 
-Olá pessoal 👋 !! Me chamo Fernando, sou de Uberlândia-MG, Brasil. Atualmente estou realizando meus estudos na [Trybe](https://www.betrybe.com/) para me tornar um **Desenvolvedor Full-Stack Júnior** 🚀.
+Hello everyone 👋 !! I'm from Uberlândia-MG, Brazil. I'm currently studying at [Trybe](https://www.betrybe.com/) to become a **Junior Fullstack Developer**.
 
-- 👩🏽‍💻 Desenvolvedor full-stack;
-- 💻 Estudando **ReactJS**, **NodeJS** e **Python**;
-- 👩🏽‍🎓 Acredito que sempre podemos aprender com todas as situações, sejam boas ou ruins;
-- 💬 Colaboração é o segredo!;
-- 💬 Praticante e Estudante das melhores Softskills para a vida e performance;
-- 📬 Para entrar em contato comigo, por favor, envie um email para `fgosuendacosta@gmail.com`;
-- 📄 Dê uma olhada no meu [Currículo](https://fgosuen.github.io);
+- 👩🏽‍💻 Front-end developer;
+- 👩🏽‍🎓 Studying degree in **Information Systems** and degree in **Administration** and **Accounting**.
+- 💬 Collaboration is the secret!;
+- 💬 Practitioner and Student of the best Softskills for life and performance;
+- 📄 Take a look at my [Resume](https://fgosuen.github.io);
+
+<div align="center">
+ 
+<img src="./img/ilovecode.gif" width="100px">
+
+Actually learning **ReactJS**, **Javascript/Typescript** and **Node**;
+
+</div>
+
+<p align="center">
+  <img src="https://badges.aleen42.com/src/visual_studio_code.svg">  
+  <img src="https://badges.aleen42.com/src/javascript.svg">
+  <img src="https://badges.aleen42.com/src/react.svg">
+  <img src="https://badges.aleen42.com/src/redux.svg"> 
+  <img src="https://badges.aleen42.com/src/jest_1.svg">
+  <img src="https://badges.aleen42.com/src/node.svg"> 
+  <img src="https://badges.aleen42.com/src/docker.svg"> 
+  <img src="https://badges.aleen42.com/src/typescript.svg"> 
+  <img src="https://badges.aleen42.com/src/python.svg"> 
+<br>
+</p>
 
 ## **Troféus GitHub**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fgosuen)](https://github.com/ryo-ma/github-profile-trophy)
-
-## **Tecnologias e Ferramentas**
-
-![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
-![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white)
-![Python Badge](https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white)
-![Java_Badge](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![ReactJS Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
-![Redux Badge](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)
-![Context Badge](https://img.shields.io/badge/-Context-61DAFB?style=flat-square&logo=React&logoColor=black)
-![Hooks Badge](https://img.shields.io/badge/-Hooks-61DAFB?style=flat-square&logo=React&logoColor=black)
-![React Testing Library Badge](https://img.shields.io/badge/-RTL-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node Badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Django_Badge](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Express Badge](https://img.shields.io/badge/-Express.js-grey?style=flat-square&logo=expressjs&logoColor=white)
-![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Jest Badge](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Sequelize Badge](https://img.shields.io/badge/-Sequelize-357bbe?style=flat-square&logo=sequelize&logoColor=white)
 
 ## **Principais Indicadores Técnicos**
 
