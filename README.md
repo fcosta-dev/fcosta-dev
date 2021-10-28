@@ -143,7 +143,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/fgosuen/fgosuen/main/charts/bar_graph.png) 
+![Chart](https://raw.githubusercontent.com/fgosuen/fgosuen/main/charts/bar_graph.png) 
 
 
  Last Updated on 26/10/2021
@@ -153,6 +153,17 @@ C#                       1 repo              █░░░░░░░░░░�
 
 ## **Find Me**
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fcosta-dev/)](https://www.linkedin.com/in/fcosta-dev/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fgosuendacosta@gmail.com)](mailto:fgosuendacosta@gmail.com)
+<div align="center">
+ <a href="https://www.linkedin.com/in/fcosta-dev/">
+   <img align="center" src="https://img.shields.io/static/v1?logo=linkedin&label=linkedin&message=fcosta-dev&color=blue&style=for-the-badge" height=25 width=180/>
+ </a>
+ <span>    </span>
+ <a href="https://www.linkedin.com/in/fcosta-dev/">
+   <img align="center" src="https://img.shields.io/static/v1?&label=Portflio&message=site&color=green&style=for-the-badge" height=25 width=160/>
+ </a>
+ <span>    </span>
+ <a href="mailto:fgosuendacosta@gmail.com">
+   <img align="center" src="https://img.shields.io/static/v1?&logo=gmail&label=Send&message=Email&color=red&style=for-the-badge" height=25 width=160/>
+ </a>
+</div>
 
