@@ -41,6 +41,7 @@ Oi pessoal 👋 !! Me chamo Fernando, sou de Uberlândia-MG, Brasil. Atualmente 
   <img align="center" width="336px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgosuen&layout=compact" alt="fgosuen" />
 </a>
 
+<p></p>
 <details>
   
   <summary>Indicadores Adicionais</summary>
