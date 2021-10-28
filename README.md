@@ -17,7 +17,6 @@ Actually learning **ReactJS**, **Javascript/Typescript** and **Node**;
 </div>
 
 <p align="center">
-  <img src="https://badges.aleen42.com/src/visual_studio_code.svg">
   <img src="https://badges.aleen42.com/src/javascript.svg">
   <img src="https://badges.aleen42.com/src/react.svg">
   <img src="https://badges.aleen42.com/src/redux.svg"> 
