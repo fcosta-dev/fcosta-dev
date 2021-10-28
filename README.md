@@ -28,6 +28,11 @@ Actually learning **ReactJS**, **Javascript/Typescript** and **Node**;
 <br>
 </p>
 
+
+ <p></p> 
+ 
+![Profile View Counter](https://komarev.com/ghpvc/?username=fgosuen)
+
 ## **Github Trophies**
 
 <div align="center">
