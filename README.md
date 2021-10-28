@@ -10,7 +10,7 @@ Hello everyone 👋 !! I'm from Uberlândia-MG, Brazil. I'm currently studying a
 
 <div align="center">
  
-<img src="./ilovecode.gif" width="200px">
+<img src="./ilovecode.gif" width="100px">
 
 Actually learning **ReactJS**, **Javascript/Typescript** and **Node**;
 
@@ -67,8 +67,9 @@ Actually learning **ReactJS**, **Javascript/Typescript** and **Node**;
   <summary>Expand Indicators</summary>
 
   <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-47-blue)
-
+ ![Profile Views](http://img.shields.io/badge/Profile%20Views-47-blue)
+ [![wakatime](https://wakatime.com/badge/user/e01a5e67-a2da-440c-a16f-a60fed959c58.svg)](https://wakatime.com/@e01a5e67-a2da-440c-a16f-a60fed959c58)
+ 
 **🐱 My GitHub Data** 
 
 > 🏆 1,356 Contributions in the Year 2021
