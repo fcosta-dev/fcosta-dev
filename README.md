@@ -36,7 +36,7 @@ Olá pessoal 👋 !! Me chamo Fernando, sou de Uberlândia-MG, Brasil. Atualment
 ![Jest Badge](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Sequelize Badge](https://img.shields.io/badge/-Sequelize-357bbe?style=flat-square&logo=sequelize&logoColor=white)
 
-## **Principais Indicadores**
+## **Principais Indicadores Técnicos**
 
 <a href="https://github.com/fgosuen">
   <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=fgosuen&show_icons=true" alt="fgosuen" />
@@ -46,7 +46,7 @@ Olá pessoal 👋 !! Me chamo Fernando, sou de Uberlândia-MG, Brasil. Atualment
 </a>
 <p></p>
 
-## **Outros Indicadores**
+## **Outros Indicadores Técnicos**
 
 <p></p>
 <details>
