@@ -1,11 +1,16 @@
-Oi pessoal 👋 !! Me chamo Fernando, sou de Uberlândia-MG, Brasil. Atualmente estou realizando meus estudos na [Trybe](https://www.betrybe.com/) para me tornar um **Desenvolvedor Full-Stack Júnior** 🚀.
+Olá pessoal 👋 !! Me chamo Fernando, sou de Uberlândia-MG, Brasil. Atualmente estou realizando meus estudos na [Trybe](https://www.betrybe.com/) para me tornar um **Desenvolvedor Full-Stack Júnior** 🚀.
 
 - 👩🏽‍💻 Desenvolvedor full-stack;
-- 💻 Estudando **ReactJS**, **Node** e **Python**;
+- 💻 Estudando **ReactJS**, **NodeJS** e **Python**;
 - 👩🏽‍🎓 Acredito que sempre podemos aprender com todas as situações, sejam boas ou ruins;
 - 💬 Colaboração é o segredo!;
+- 💬 Praticante e Estudante das melhores Softskills para a vida e performance;
 - 📬 Para entrar em contato comigo, por favor, envie um email para `fgosuendacosta@gmail.com`;
 - 📄 Dê uma olhada no meu [Currículo](https://fgosuen.github.io);
+
+**Troféus GitHub**
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=fgosuen)](https://github.com/ryo-ma/github-profile-trophy)
 
 **Tecnologias e ferramentas**
 
