@@ -1,3 +1,5 @@
+**Apresentação**
+
 Olá pessoal 👋 !! Me chamo Fernando, sou de Uberlândia-MG, Brasil. Atualmente estou realizando meus estudos na [Trybe](https://www.betrybe.com/) para me tornar um **Desenvolvedor Full-Stack Júnior** 🚀.
 
 - 👩🏽‍💻 Desenvolvedor full-stack;
@@ -12,7 +14,7 @@ Olá pessoal 👋 !! Me chamo Fernando, sou de Uberlândia-MG, Brasil. Atualment
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fgosuen)](https://github.com/ryo-ma/github-profile-trophy)
 
-**Tecnologias e ferramentas**
+**Tecnologias e Ferramentas**
 
 ![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
 ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -34,7 +36,7 @@ Olá pessoal 👋 !! Me chamo Fernando, sou de Uberlândia-MG, Brasil. Atualment
 ![Jest Badge](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Sequelize Badge](https://img.shields.io/badge/-Sequelize-357bbe?style=flat-square&logo=sequelize&logoColor=white)
 
-**Me encontre**
+**Me Encontre**
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fcosta-dev/)](https://www.linkedin.com/in/fcosta-dev/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fgosuendacosta@gmail.com)](mailto:fgosuendacosta@gmail.com)
@@ -45,6 +47,9 @@ Olá pessoal 👋 !! Me chamo Fernando, sou de Uberlândia-MG, Brasil. Atualment
 <a href="https://github.com/fgosuen">
   <img align="center" width="336px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgosuen&layout=compact" alt="fgosuen" />
 </a>
+<p></p>
+
+**Outros Indicadores**
 
 <p></p>
 <details>
