@@ -10,14 +10,14 @@ Hello everyone 👋 !! I'm from Uberlândia-MG, Brazil. I'm currently studying a
 
 <div align="center">
  
-<img src="./img/ilovecode.gif" width="100px">
+<img src="./ilovecode.gif" width="200px">
 
 Actually learning **ReactJS**, **Javascript/Typescript** and **Node**;
 
 </div>
 
 <p align="center">
-  <img src="https://badges.aleen42.com/src/visual_studio_code.svg">  
+  <img src="https://badges.aleen42.com/src/visual_studio_code.svg">
   <img src="https://badges.aleen42.com/src/javascript.svg">
   <img src="https://badges.aleen42.com/src/react.svg">
   <img src="https://badges.aleen42.com/src/redux.svg"> 
@@ -29,61 +29,77 @@ Actually learning **ReactJS**, **Javascript/Typescript** and **Node**;
 <br>
 </p>
 
-## **Troféus GitHub**
+## **Github Trophies**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=fgosuen)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+ <a href="https://github.com/ryo-ma/github-profile-trophy">
+ <img align="center" src="https://github-profile-trophy.vercel.app/?username=fgosuen&row=1&column=6"/>
+</div>
+ 
+## **Main Technical Indicators**
 
-## **Principais Indicadores Técnicos**
-
-<a href="https://github.com/fgosuen">
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=fgosuen&show_icons=true" alt="fgosuen" />
-</a>
-<a href="https://github.com/fgosuen">
-  <img align="center" width="336px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgosuen&layout=compact" alt="fgosuen" />
-</a>
+<div align="center">
+ <a href="https://github.com/fgosuen">
+   <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=fgosuen&show_icons=true" alt="fgosuen" />
+ </a>
+ <a href="https://github.com/fgosuen">
+   <img align="center" width="336px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgosuen&layout=compact" alt="fgosuen" />
+ </a>
+</div>
 <p></p>
 
-## **Outros Indicadores Técnicos**
+
+* * *
+
+<div align="center">
+ <a href="https://wakatime.com/@fgosuen">
+  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=fgosuen&layout=compact"/>
+</a>
+</div>
+
+* * *
+
+## **Github Stats Details**
 
 <p></p>
 <details>
   
-  <summary>Expandir Indicadores</summary>
+  <summary>Expand Indicators</summary>
 
   <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-67-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-47-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,397 Contributions in the Year 2021
+> 🏆 1,356 Contributions in the Year 2021
  > 
-> 📦 436.0 kB Used in GitHub's Storage 
+> 📦 435.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 18 Public Repositories 
+> 📜 16 Public Repositories 
  > 
 > 🔑 4 Private Repositories  
  > 
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning    71 commits     █████░░░░░░░░░░░░░░░░░░░░   20.82% 
-🌆 Daytime    90 commits     ██████░░░░░░░░░░░░░░░░░░░   26.39% 
-🌃 Evening    172 commits    ████████████░░░░░░░░░░░░░   50.44% 
-🌙 Night      8 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.35%
+🌞 Morning    78 commits     █████░░░░░░░░░░░░░░░░░░░░   23.42% 
+🌆 Daytime    92 commits     ███████░░░░░░░░░░░░░░░░░░   27.63% 
+🌃 Evening    155 commits    ███████████░░░░░░░░░░░░░░   46.55% 
+🌙 Night      8 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.4%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-Tuesday      44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.9% 
-Wednesday    26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.62% 
-Thursday     22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.45% 
-Friday       36 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.56% 
-Saturday     75 commits     █████░░░░░░░░░░░░░░░░░░░░   21.99% 
-Sunday       107 commits    ███████░░░░░░░░░░░░░░░░░░   31.38%
+Monday       31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.31% 
+Tuesday      21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.31% 
+Wednesday    46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.81% 
+Thursday     17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.11% 
+Friday       36 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.81% 
+Saturday     75 commits     █████░░░░░░░░░░░░░░░░░░░░   22.52% 
+Sunday       107 commits    ████████░░░░░░░░░░░░░░░░░   32.13%
 
 ```
 
@@ -94,22 +110,22 @@ Sunday       107 commits    ███████░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    12 hrs 33 mins      █████████████████░░░░░░░░   67.78% 
-JavaScript               5 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   28.41% 
-SQL                      30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.78% 
-Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.7% 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28%
+Other                    9 hrs 39 mins       ███████████████░░░░░░░░░░   60.69% 
+SQL                      4 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   29.43% 
+JavaScript               1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.68% 
+Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.63% 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.53%
 
 🔥 Editors: 
-VS Code                  18 hrs 31 mins      █████████████████████████   100.0%
+VS Code                  15 hrs 54 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-trybe-exercises          17 hrs 23 mins      ███████████████████████░░   93.88% 
-sd-012-mongodb-aggregatio42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.85% 
-sd-013-a-mysql-vocabulary25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.27%
+trybe-exercises          15 hrs 28 mins      ████████████████████████░   97.23% 
+sd-013-a-mysql-vocabulary25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.64% 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
 
 💻 Operating System: 
-Linux                    18 hrs 31 mins      █████████████████████████   100.0%
+Linux                    15 hrs 54 mins      █████████████████████████   100.0%
 
 ```
 
@@ -130,12 +146,12 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/fgosuen/fgosuen/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/10/2021
+ Last Updated on 26/10/2021
 <!--END_SECTION:waka-->
   
 </details>
 
-## **Me Encontre**
+## **Find Me**
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fcosta-dev/)](https://www.linkedin.com/in/fcosta-dev/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fgosuendacosta@gmail.com)](mailto:fgosuendacosta@gmail.com)
