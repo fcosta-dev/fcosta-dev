@@ -64,9 +64,9 @@ Actually learning **ReactJS**, **Javascript/Typescript**, **Docker**, **MySQL**,
 ## **Github Stats Details**
 
 <details>
-  
-  <summary>Expand Indicators</summary>
-
+       <summary>Expand Indicators</summary>
+       <div align="justify">
+ 
   <!--START_SECTION:waka-->
  ![Profile Views](http://img.shields.io/badge/Profile%20Views-47-blue)
  [![wakatime](https://wakatime.com/badge/user/e01a5e67-a2da-440c-a16f-a60fed959c58.svg)](https://wakatime.com/@e01a5e67-a2da-440c-a16f-a60fed959c58)
@@ -147,8 +147,10 @@ C#                       1 repo              █░░░░░░░░░░�
 
 ![Chart](https://raw.githubusercontent.com/fgosuen/fgosuen/main/charts/bar_graph.png) 
 
+ Last Updated on 27/10/2021
 <!--END_SECTION:waka-->
-  
+
+   </div>
 </details>
 
 ## **Find Me**
