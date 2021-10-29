@@ -63,7 +63,6 @@ Actually learning **ReactJS**, **Javascript/Typescript**, **Docker**, **MySQL**,
 
 ## **Github Stats Details**
 
-<p></p>
 <details>
   
   <summary>Expand Indicators</summary>
