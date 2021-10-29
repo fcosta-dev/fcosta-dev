@@ -148,8 +148,6 @@ C#                       1 repo              █░░░░░░░░░░�
 
 ![Chart](https://raw.githubusercontent.com/fgosuen/fgosuen/main/charts/bar_graph.png) 
 
-
- Last Updated on 26/10/2021
 <!--END_SECTION:waka-->
   
 </details>
