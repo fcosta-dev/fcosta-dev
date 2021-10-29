@@ -12,7 +12,7 @@ Hello everyone 👋 !! I'm from Uberlândia-MG, Brazil. I'm currently studying a
  
 <img src="./ilovecode.gif" width="100px">
 
-Actually learning **ReactJS**, **Javascript/Typescript** and **Node**;
+Actually learning **ReactJS**, **Javascript/Typescript**, **Docker**, **MySQL**, **MongoDB** and **Node**;
 
 </div>
 
@@ -31,8 +31,6 @@ Actually learning **ReactJS**, **Javascript/Typescript** and **Node**;
 
  <p></p> 
  
-![Profile View Counter](https://komarev.com/ghpvc/?username=fgosuen)
-
 ## **Github Trophies**
 
 <div align="center">
