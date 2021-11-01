@@ -18,7 +18,7 @@ Actually learning **MySQL**, **MongoDB** and **NodeJS**;
 </div>
 
 
-## Languages and Tools I work/work:
+## Languages and Tools I work/study:
 
 ### Front End
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -31,19 +31,19 @@ Actually learning **MySQL**, **MongoDB** and **NodeJS**;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Back End
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-03684f?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### DB
 ![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-6DA55F.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-03684f.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%231572B6.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tests
-![Jest](https://img.shields.io/badge/jest-%23777BB4.svg?style=for-the-badge&logo=jest&logoColor=blueviolet)
+![Jest](https://img.shields.io/badge/jest-blueviolet.svg?style=for-the-badge&logo=jest&logoColor=white)
 ![RTL](https://img.shields.io/badge/rtl-%23323330.svg?style=for-the-badge&logo=rtl&logoColor=white)
 ![Cypress](https://img.shields.io/badge/cypress-%23563D7C.svg?style=for-the-badge&logo=cypress&logoColor=white)
-![Mocha](https://img.shields.io/badge/mocha-yellowgreen.svg?style=for-the-badge&logo=mocha&logoColor=white)
+![Mocha](https://img.shields.io/badge/mocha-6DA55F.svg?style=for-the-badge&logo=mocha&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -52,6 +52,9 @@ Actually learning **MySQL**, **MongoDB** and **NodeJS**;
 ![Figma](https://img.shields.io/badge/figma-%23323330.svg?style=for-the-badge&logo=figma&logoColor=red)
 ![Docker](https://img.shields.io/badge/docker-%2320232a.svg?style=for-the-badge&logo=docker&logoColor=%2361DAFB)
 
+### Agile Methodologies
+![Kanban](https://img.shields.io/badge/kanban-black.svg?style=for-the-badge&logo=kanban&logoColor=white)
+![Scrum](https://img.shields.io/badge/scrum-black.svg?style=for-the-badge&logo=scrum&logoColor=white)
 
 ### Communication
 ![Slack](https://img.shields.io/badge/slack-%2320232a.svg?style=for-the-badge&logo=slack&logoColor=white)
