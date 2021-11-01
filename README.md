@@ -17,7 +17,7 @@ Actually learning **MySQL**, **MongoDB** and **NodeJS**
 </div>
 
 
-## Languages and Tools I work/study:
+## Languages and Tools I work/study
 
 ### Front End
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
