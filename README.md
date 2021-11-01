@@ -13,18 +13,30 @@ Hello everyone 👋 !! I'm from Uberlândia-MG, Brazil. I'm currently studying a
 <img src="./ilovecode.gif" width="100px">
 
 Actually learning **ReactJS**, **Javascript/Typescript**, **Docker**, **MySQL**, **MongoDB** and **Node**;
+<br>
 
 </div>
 
-<p align="center">
-  <img src="https://badges.aleen42.com/src/javascript.svg">
-  <img src="https://badges.aleen42.com/src/react.svg">
-  <img src="https://badges.aleen42.com/src/redux.svg"> 
-  <img src="https://badges.aleen42.com/src/jest_1.svg">
-  <img src="https://badges.aleen42.com/src/node.svg"> 
-  <img src="https://badges.aleen42.com/src/docker.svg"> 
-  <img src="https://badges.aleen42.com/src/typescript.svg"> 
-  <img src="https://badges.aleen42.com/src/python.svg"> 
+
+## Languages and Tools I work/work:
+
+### Front End
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Back End
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Tools and DB
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%2320232a.svg?style=for-the-badge&logo=docker&logoColor=%2361DAFB)
 <br>
 </p>
 
@@ -168,6 +180,9 @@ C#                       1 repo              █░░░░░░░░░░�
  <span>    </span>
  <a href="mailto:fgosuendacosta@gmail.com">
    <img align="center" src="https://img.shields.io/static/v1?&logo=gmail&label=Send&message=Email&color=red&style=for-the-badge" height=25 width=160/>
+ </a>
+  <a href="https://api.whatsapp.com/send?phone=5534991944370&text=Ol%C3%A">
+   <img align="center" src="https://img.shields.io/static/v1?&logo=whatsapp&label=Send&message=Whatsapp&color=green&style=for-the-badge" height=25 width=160/>
  </a>
 </div>
 
