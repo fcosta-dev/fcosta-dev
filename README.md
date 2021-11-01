@@ -196,7 +196,7 @@ C#                       1 repo              █░░░░░░░░░░�
    <img align="center" src="https://img.shields.io/static/v1?logo=linkedin&label=linkedin&message=fcosta-dev&color=blue&style=for-the-badge" height=25 width=180/>
  </a>
  <span>    </span>
- <a href="https://www.linkedin.com/in/fcosta-dev/">
+ <a href="http://fgosuen.github.io">
    <img align="center" src="https://img.shields.io/static/v1?&label=Portflio&message=site&color=yellow&style=for-the-badge" height=25 width=160/>
  </a>
  <span>    </span>
