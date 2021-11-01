@@ -1,4 +1,4 @@
-# I'm Fernando 🚀
+# I'm Fernando 🚀 
 
 Hello everyone 👋 !! I'm from Uberlândia-MG, Brazil. I'm currently studying at [Trybe](https://www.betrybe.com/) to become a **Junior Fullstack Developer**.
 
@@ -12,9 +12,8 @@ Hello everyone 👋 !! I'm from Uberlândia-MG, Brazil. I'm currently studying a
  
 <img src="./ilovecode.gif" width="100px">
 
-Actually learning **MySQL**, **MongoDB** and **NodeJS**;
+Actually learning **MySQL**, **MongoDB** and **NodeJS**
 <br>
-
 </div>
 
 
@@ -34,8 +33,8 @@ Actually learning **MySQL**, **MongoDB** and **NodeJS**;
 ![NodeJS](https://img.shields.io/badge/node.js-03684f?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### DB
-![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%231572B6.svg?style=for-the-badge&logo=sql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%231572B6.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-03684f.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%231572B6.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -209,3 +208,4 @@ C#                       1 repo              █░░░░░░░░░░�
  </a>
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fgosuen&style=plastic" alt="Fernando Costa" /></p>
