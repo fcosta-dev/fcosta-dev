@@ -208,4 +208,5 @@ C#                       1 repo              █░░░░░░░░░░�
  </a>
 </div>
 
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fgosuen&style=plastic" alt="Fernando Costa" /></p>
