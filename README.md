@@ -12,7 +12,7 @@ Hello everyone 👋 !! I'm from Uberlândia-MG, Brazil. I'm currently studying a
  
 <img src="./ilovecode.gif" width="100px">
 
-Actually learning **ReactJS**, **Javascript/Typescript**, **Docker**, **MySQL**, **MongoDB** and **Node**;
+Actually learning **MySQL**, **MongoDB** and **NodeJS**;
 <br>
 
 </div>
@@ -33,14 +33,23 @@ Actually learning **ReactJS**, **Javascript/Typescript**, **Docker**, **MySQL**,
 ### Back End
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-### Tools and DB
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Trello](https://img.shields.io/badge/trello-%2320232a.svg?style=for-the-badge&logo=trello&logoColor=blue)
-![Figma](https://img.shields.io/badge/figma-%2320232a.svg?style=for-the-badge&logo=figma&logoColor=red)
+### DB
 ![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-6DA55F.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%231572B6.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tests
+![Jest](https://img.shields.io/badge/jest-%23777BB4.svg?style=for-the-badge&logo=jest&logoColor=blueviolet)
+![RTL](https://img.shields.io/badge/rtl-%23323330.svg?style=for-the-badge&logo=rtl&logoColor=white)
+![Cypress](https://img.shields.io/badge/cypress-%23563D7C.svg?style=for-the-badge&logo=cypress&logoColor=white)
+![Mocha](https://img.shields.io/badge/mocha-yellowgreen.svg?style=for-the-badge&logo=mocha&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Trello](https://img.shields.io/badge/trello-%23323330.svg?style=for-the-badge&logo=trello&logoColor=blue)
+![Figma](https://img.shields.io/badge/figma-%23323330.svg?style=for-the-badge&logo=figma&logoColor=red)
 ![Docker](https://img.shields.io/badge/docker-%2320232a.svg?style=for-the-badge&logo=docker&logoColor=%2361DAFB)
 
 
