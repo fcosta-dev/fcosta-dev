@@ -69,8 +69,20 @@ Actually learning **MySQL**, **MongoDB** and **NodeJS**
 
 <div align="center">
  <a href="https://github.com/ryo-ma/github-profile-trophy">
- <img align="center" src="https://github-profile-trophy.vercel.app/?username=fgosuen&margin-w=20&no-bg=true&no-frame=true&row=1&column=6"/>
+   <img align="center" src="https://github-profile-trophy.vercel.app/?username=fgosuen&margin-w=20&no-bg=true&no-frame=true&row=1&column=6" />
+ </a>
 </div>
+
+ 
+## **Github Streak**
+ 
+
+<div align="center">
+ <a href="https://git.io/streak-stats">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fgosuen" alt="fgosuen" />
+ </a>
+</div>
+
  
 ## **Main Technical Indicators**
 
