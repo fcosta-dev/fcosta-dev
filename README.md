@@ -209,7 +209,7 @@ C#                       1 repo              █░░░░░░░░░░�
  </a>
  <span>    </span>
  <a href="http://fgosuen.github.io">
-   <img align="center" src="https://img.shields.io/static/v1?&label=Portflio&message=site&color=yellow&style=for-the-badge" height=25 width=160/>
+   <img align="center" src="https://img.shields.io/static/v1?&label=Portoflio&message=site&color=yellow&style=for-the-badge" height=25 width=160/>
  </a>
  <span>    </span>
  <a href="mailto:fgosuendacosta@gmail.com">
