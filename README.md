@@ -3,7 +3,7 @@
 Hello everyone 👋 !! I'm from Uberlândia-MG, Brazil. I'm currently studying at [Trybe](https://www.betrybe.com/) to become a **Junior Fullstack Developer**.
 
 - 👩🏽‍💻 Front-end developer;
-- 👩🏽‍🎓 Studying degree in **Information Systems** and degree in **Administration** and **Accounting**.
+- 👩🏽‍🎓 Studying degree in **Information Systems** and degree in **Accounting**.
 - 💬 Collaboration is the secret!;
 - 💬 Practitioner and Student of the best Softskills for life and performance;
 - 📄 Take a look at my [Resume](https://fgosuen.github.io);
