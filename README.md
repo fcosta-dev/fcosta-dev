@@ -114,7 +114,7 @@ Actually learning **Docker**, **MySQL**, **MongoDB** and **NodeJS**
        <div align="justify">
  
   <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-132-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-134-blue)
 
 **🐱 My GitHub Data** 
 
@@ -195,7 +195,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/fgosuen/fgosuen/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/11/2021
+ Last Updated on 08/11/2021
 <!--END_SECTION:waka-->
 
    </div>
