@@ -6,7 +6,7 @@ Hello everyone 👋 !! I'm from Uberlândia-MG, Brazil. I'm currently studying a
 - 👩🏽‍🎓 Studying degree in **Information Systems** and degree in **Accounting**.
 - 💬 Collaboration is the secret!;
 - 💬 Practitioner and Student of the best Softskills for life and performance;
-- 📄 Take a look at my [Resume](https://fgosuen.github.io);
+- 📄 Take a look at my [Resume](https://fcosta-dev.github.io);
 
 <div align="center">
  
@@ -69,7 +69,7 @@ Actually learning **Docker**, **MySQL**, **MongoDB** and **NodeJS**
 
 <div align="center">
  <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img align="center" src="https://github-profile-trophy.vercel.app/?username=fgosuen&margin-w=20&no-bg=true&no-frame=true&row=1&column=6" />
+   <img align="center" src="https://github-profile-trophy.vercel.app/?username=fcosta-dev&margin-w=20&no-bg=true&no-frame=true&row=1&column=6" />
  </a>
 </div>
 
@@ -79,7 +79,7 @@ Actually learning **Docker**, **MySQL**, **MongoDB** and **NodeJS**
 
 <div align="center">
  <a href="https://git.io/streak-stats">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fgosuen" alt="fgosuen" />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fcosta-dev" alt="fcosta-dev" />
  </a>
 </div>
 
@@ -87,11 +87,11 @@ Actually learning **Docker**, **MySQL**, **MongoDB** and **NodeJS**
 ## **Main Technical Indicators**
 
 <div align="center">
- <a href="https://github.com/fgosuen">
-   <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=fgosuen&show_icons=true" alt="fgosuen" />
+ <a href="https://github.com/fcosta-dev">
+   <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=fcosta-dev&show_icons=true" alt="fcosta-dev" />
  </a>
- <a href="https://github.com/fgosuen">
-   <img align="center" width="336px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgosuen&layout=compact" alt="fgosuen" />
+ <a href="https://github.com/fcosta-dev">
+   <img align="center" width="336px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcosta-dev&layout=compact" alt="fcosta-dev" />
  </a>
 </div>
 <p></p>
@@ -100,8 +100,8 @@ Actually learning **Docker**, **MySQL**, **MongoDB** and **NodeJS**
 * * *
 
 <div align="center">
- <a href="https://wakatime.com/@fgosuen">
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=fgosuen&layout=compact"/>
+ <a href="https://wakatime.com/@fcostadev">
+  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=fcosta-dev&layout=compact"/>
 </a>
 </div>
 
@@ -192,7 +192,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/fgosuen/fgosuen/main/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/fcosta-dev/fcosta-dev/main/charts/bar_graph.png) 
 
 
  Last Updated on 18/11/2021
@@ -208,11 +208,11 @@ C#                       1 repo              █░░░░░░░░░░�
    <img align="center" src="https://img.shields.io/static/v1?logo=linkedin&label=linkedin&message=fcosta-dev&color=blue&style=for-the-badge" height=25 width=180/>
  </a>
  <span>    </span>
- <a href="http://fgosuen.github.io">
+ <a href="http://fcosta-dev.github.io">
    <img align="center" src="https://img.shields.io/static/v1?&label=Portfolio&message=site&color=yellow&style=for-the-badge" height=25 width=160/>
  </a>
  <span>    </span>
- <a href="mailto:fgosuendacosta@gmail.com">
+ <a href="mailto:dashcode2020@gmail.com">
    <img align="center" src="https://img.shields.io/static/v1?&logo=gmail&label=Send&message=Email&color=red&style=for-the-badge" height=25 width=160/>
  </a>
   <a href="https://api.whatsapp.com/send?phone=5534991944370&text=Ol%C3%A">
@@ -221,4 +221,4 @@ C#                       1 repo              █░░░░░░░░░░�
 </div>
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fgosuen&style=plastic" alt="Fernando Costa" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fcosta-dev&style=plastic" alt="Fernando Costa" /></p>
