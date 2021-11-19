@@ -101,7 +101,7 @@ Actually learning **Docker**, **MySQL**, **MongoDB** and **NodeJS**
 
 <div align="center">
  <a href="https://wakatime.com/@fcostadev">
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=fcosta-dev&layout=compact"/>
+  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=fcostadev&layout=compact"/>
 </a>
 </div>
 
