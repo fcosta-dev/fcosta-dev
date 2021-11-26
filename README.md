@@ -114,65 +114,20 @@ Actually learning **Docker**, **MySQL**, **MongoDB** and **NodeJS**
        <div align="justify">
  
   <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
-        
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.8%20million%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,521 Contributions in the Year 2021
+> 🏆 1,531 Contributions in the Year 2021
  > 
 > 📦 490.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 19 Public Repositories 
+> 📜 21 Public Repositories 
  > 
 > 🔑 5 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    119 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.44% 
-🌆 Daytime    182 commits    ███████░░░░░░░░░░░░░░░░░░   29.74% 
-🌃 Evening    193 commits    ████████░░░░░░░░░░░░░░░░░   31.54% 
-🌙 Night      118 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.28%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       107 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.48% 
-Tuesday      117 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.12% 
-Wednesday    62 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.13% 
-Thursday     50 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.17% 
-Friday       94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.36% 
-Saturday     83 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.56% 
-Sunday       99 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.18%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-Vue.js                   8 hrs 57 mins       ██████████████████████░░░   90.07% 
-JavaScript               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.14% 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.43% 
-CSS                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.38% 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.98%
-
-🔥 Editors: 
-VS Code                  9 hrs 56 mins       █████████████████████████   100.0%
-
-💻 Operating System: 
-Linux                    9 hrs 56 mins       █████████████████████████   100.0%
-
-```
-        
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -190,7 +145,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/fcosta-dev/fcosta-dev/main/charts/bar_graph.png) 
 
 
- Last Updated on 25/11/2021
+ Last Updated on 26/11/2021
 <!--END_SECTION:waka-->
 
    </div>
