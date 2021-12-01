@@ -118,9 +118,9 @@ Actually learning **Docker**, **MySQL**, **MongoDB** and **NodeJS**
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,530 Contributions in the Year 2021
+> 🏆 1,556 Contributions in the Year 2021
  > 
-> 📦 490.7 kB Used in GitHub's Storage 
+> 📦 490.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -145,7 +145,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/fcosta-dev/fcosta-dev/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/11/2021
+ Last Updated on 01/12/2021
 <!--END_SECTION:waka-->
 
    </div>
