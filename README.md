@@ -118,24 +118,24 @@ Actually learning **Docker**, **MySQL**, **MongoDB** and **NodeJS**
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,529 Contributions in the Year 2021
+> 🏆 1,542 Contributions in the Year 2021
  > 
-> 📦 491.7 kB Used in GitHub's Storage 
+> 📦 492.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 20 Public Repositories 
+> 📜 22 Public Repositories 
  > 
 > 🔑 5 Private Repositories  
  > 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               15 repos            ████████████████░░░░░░░░░   65.22% 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
-Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
-C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.35%
+JavaScript               16 repos            ████████████████░░░░░░░░░   66.67% 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
 
 ```
 
@@ -145,7 +145,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/fcosta-dev/fcosta-dev/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/12/2021
+ Last Updated on 16/12/2021
 <!--END_SECTION:waka-->
 
    </div>
