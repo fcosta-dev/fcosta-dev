@@ -1,9 +1,9 @@
 # I'm Fernando 🚀 
 
-Hello everyone 👋 !! I'm from Uberlândia-MG, Brazil. I'm currently studying at [Trybe](https://www.betrybe.com/) to become a **Junior Fullstack Developer**.
+Hello everyone 👋 !! I'm from Uberlândia-MG, Brazil. I'm currently studying to become a **Fullstack Developer**.
 
 - 👩🏽‍💻 Front-end developer;
-- 👩🏽‍🎓 Studying degree in **Information Systems** and degree in **Accounting**.
+- 👩🏽‍🎓 Studying degree in **Information Systems** and degree in **Accounting** and **Administration**.
 - 💬 Collaboration is the secret!;
 - 💬 Practitioner and Student of the best Softskills for life and performance;
 - 📄 Take a look at my [Resume](https://fcosta-dev.github.io);
