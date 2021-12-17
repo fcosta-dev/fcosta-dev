@@ -12,7 +12,7 @@ Hello everyone 👋 !! I'm from Uberlândia-MG, Brazil. I'm currently studying t
  
 <img src="./ilovecode.gif" width="100px">
 
-Actually learning **Docker**, **MySQL**, **MongoDB** and **NodeJS**
+Actually learning **ReactJS**, **Docker**, **MySQL**, **MongoDB** and **NodeJS**
 <br>
 </div>
 
