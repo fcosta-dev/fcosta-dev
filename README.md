@@ -1,6 +1,6 @@
 # I'm Fernando 🚀 
 
-Hello everyone 👋 !! I'm from Uberlândia-MG, Brazil. I'm currently studying to become a **Fullstack Developer**.
+Hello everyone 👋 !! I'm from Uberlândia-MG, Brazil. I'm currently studying to become a **Fullstack Developer Sênior**.
 
 - 👩🏽‍💻 Front-end developer;
 - 👩🏽‍🎓 Studying degree in **Information Systems** and degree in **Accounting** and **Administration**.
