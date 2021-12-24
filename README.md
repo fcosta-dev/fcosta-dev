@@ -114,13 +114,13 @@ Actually learning **ReactJS**, **Docker**, **MySQL**, **MongoDB** and **NodeJS**
        <div align="justify">
  
   <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,548 Contributions in the Year 2021
+> 🏆 1,549 Contributions in the Year 2021
  > 
-> 📦 492.2 kB Used in GitHub's Storage 
+> 📦 492.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -145,7 +145,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/fcosta-dev/fcosta-dev/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/12/2021
+ Last Updated on 24/12/2021
 <!--END_SECTION:waka-->
 
    </div>
