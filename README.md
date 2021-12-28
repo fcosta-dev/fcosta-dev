@@ -2,7 +2,7 @@
 
 Hello everyone 👋 !! I'm from Uberlândia-MG, Brazil. I'm currently studying to become a **Fullstack Developer Sênior**.
 
-- 👩🏽‍💻 Front-end developer;
+- 👩🏽‍💻 Fullstack developer;
 - 👩🏽‍🎓 Studying degree in **Information Systems** and degree in **Accounting** and **Administration**.
 - 💬 Collaboration is the secret!;
 - 💬 Practitioner and Student of the best Softskills for life and performance;
