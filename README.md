@@ -97,16 +97,6 @@ Actually learning **ReactJS**, **Docker**, **MySQL**, **MongoDB** and **NodeJS**
 <p></p>
 
 
-* * *
-
-<div align="center">
- <a href="https://wakatime.com/@fcostadev">
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=fcostadev&layout=compact"/>
-</a>
-</div>
-
-* * *
-
 ## **Github Stats Details**
 
 <details>
