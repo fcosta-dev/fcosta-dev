@@ -96,51 +96,6 @@ Actually learning **ReactJS**, **Docker**, **MySQL**, **MongoDB** and **NodeJS**
 </div>
 <p></p>
 
-
-## **Github Stats Details**
-
-<details>
-       <summary>Expand Indicators</summary>
-       <div align="justify">
- 
-  <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 10 Contributions in the Year 2022
- > 
-> 📦 492.3 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 21 Public Repositories 
- > 
-> 🔑 5 Private Repositories  
- > 
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               16 repos            ████████████████░░░░░░░░░   66.67% 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/fcosta-dev/fcosta-dev/main/charts/bar_graph.png) 
-
-
- Last Updated on 10/01/2022
-<!--END_SECTION:waka-->
-
-   </div>
-</details>
-
 ## **Find Me**
 
 <div align="center">
