@@ -31,6 +31,7 @@ Actually learning **ReactJS**, **Docker**, **MySQL**, **MongoDB** and **NodeJS**
 
 ### Back End
 ![NodeJS](https://img.shields.io/badge/node.js-03684f?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express-%23F05033.svg?style=for-the-badge&logo=express&logoColor=white)
 
 ### DB
 ![SQL](https://img.shields.io/badge/sql-%231572B6.svg?style=for-the-badge&logo=sql&logoColor=white)
