@@ -26,12 +26,13 @@ Actually learning **ReactJS**, **Docker**, **MySQL**, **MongoDB** and **NodeJS**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%2320232a.svg?style=for-the-badge&logo=redux&logoColor=%2361DAFB)
 ![Context](https://img.shields.io/badge/context-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Back End
 ![NodeJS](https://img.shields.io/badge/node.js-03684f?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express-%23F05033.svg?style=for-the-badge&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%23323330.svg?style=for-the-badge&logo=python&logoColor=%23F7DF1E)
 
 ### DB
 ![SQL](https://img.shields.io/badge/sql-%231572B6.svg?style=for-the-badge&logo=sql&logoColor=white)
@@ -50,6 +51,7 @@ Actually learning **ReactJS**, **Docker**, **MySQL**, **MongoDB** and **NodeJS**
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Trello](https://img.shields.io/badge/trello-%23323330.svg?style=for-the-badge&logo=trello&logoColor=blue)
 ![Figma](https://img.shields.io/badge/figma-%23323330.svg?style=for-the-badge&logo=figma&logoColor=red)
+![Miro](https://img.shields.io/badge/miro-%23323330.svg?style=for-the-badge&logo=miro&logoColor=yellow)
 ![Docker](https://img.shields.io/badge/docker-%2320232a.svg?style=for-the-badge&logo=docker&logoColor=%2361DAFB)
 
 ### Agile Methodologies
@@ -59,6 +61,7 @@ Actually learning **ReactJS**, **Docker**, **MySQL**, **MongoDB** and **NodeJS**
 ### Communication
 ![Slack](https://img.shields.io/badge/slack-%2320232a.svg?style=for-the-badge&logo=slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/discord-%231572B6.svg?style=for-the-badge&logo=discord&logoColor=white)
+![googlechat](https://img.shields.io/badge/googlechat-black.svg?style=for-the-badge&logo=googlechat&logoColor=white)
 
 <br>
 </p>
