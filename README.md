@@ -1,6 +1,6 @@
 # I'm Fernando 🚀 
 
-Hello everyone 👋 !! I'm from Uberlândia-MG, Brazil. I'm currently studying to become a **Fullstack Developer Sênior**.
+Hello everyone 👋 !! I'm from Uberlândia-MG, Brazil.
 
 - 👩🏽‍💻 Fullstack developer;
 - 👩🏽‍🎓 Studying degree in **Information Systems** and degree in **Accounting** and **Administration**.
@@ -8,11 +8,7 @@ Hello everyone 👋 !! I'm from Uberlândia-MG, Brazil. I'm currently studying t
 - 💬 Practitioner and Student of the best Softskills for life and performance;
 - 📄 Take a look at my [Resume](https://fcosta-dev.github.io);
 
-<div align="center">
- 
-<img src="./ilovecode.gif" width="100px">
-
-Actually learning **ReactJS**, **Docker**, **MySQL**, **MongoDB** and **NodeJS**
+Currently developing **The project** !!
 <br>
 </div>
 
