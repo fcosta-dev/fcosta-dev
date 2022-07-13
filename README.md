@@ -99,7 +99,7 @@ Currently developing **The project** !!
 ## **Find Me**
 
 <div align="center">
- <a href="https://www.linkedin.com/in/fcosta-dev/">
+ <a href="https://www.linkedin.com/">
    <img align="center" src="https://img.shields.io/static/v1?logo=linkedin&label=linkedin&message=fcosta-dev&color=blue&style=for-the-badge" height=25 width=180/>
  </a>
  <span>    </span>
