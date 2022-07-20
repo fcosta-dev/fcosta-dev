@@ -8,7 +8,6 @@ Hello everyone 👋 !! I'm from Uberlândia-MG, Brazil.
 - 💬 Practitioner and Student of the best Softskills for life and performance;
 - 📄 Take a look at my [Resume](https://fcosta-dev.github.io);
 
-Currently developing **The project** !!
 <br>
 </div>
 
