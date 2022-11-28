@@ -1,5 +1,7 @@
 # I'm Fernando 🚀 
 
+## ** Working with BitBucket. I'm not using github, I'm using BitBucket.
+
 Hello everyone 👋 !! I'm from Uberlândia-MG, Brazil.
 
 - 👩🏽‍💻 Fullstack developer;
@@ -7,6 +9,7 @@ Hello everyone 👋 !! I'm from Uberlândia-MG, Brazil.
 - 💬 Collaboration is the secret!;
 - 💬 Practitioner and Student of the best Softskills for life and performance;
 - 📄 Take a look at my [Resume](https://fcosta-dev.github.io);
+
 
 <br>
 </div>
