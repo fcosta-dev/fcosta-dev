@@ -109,12 +109,6 @@ Hello everyone 👋 !! I'm from Uberlândia-MG, Brazil.
    <img align="center" src="https://img.shields.io/static/v1?&label=Portfolio&message=site&color=yellow&style=for-the-badge" height=25 width=160/>
  </a>
  <span>    </span>
- <a href="mailto:dashcode2020@gmail.com">
-   <img align="center" src="https://img.shields.io/static/v1?&logo=gmail&label=Send&message=Email&color=red&style=for-the-badge" height=25 width=160/>
- </a>
-  <a href="https://api.whatsapp.com/send?phone=5534991944370&text=Ol%C3%A">
-   <img align="center" src="https://img.shields.io/static/v1?&logo=whatsapp&label=Send&message=Whatsapp&color=%234ea94b&style=for-the-badge" height=25 width=160/>
- </a>
 </div>
 
 <br>
