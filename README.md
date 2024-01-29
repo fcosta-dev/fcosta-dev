@@ -5,7 +5,7 @@
 Hello everyone 👋 !! I'm from Uberlândia-MG, Brazil.
 
 - 👩🏽‍💻 Fullstack developer;
-- 👩🏽‍🎓 Studying degree in **Information Systems** and degree in **Accounting** and **Administration**.
+- 👩🏽‍🎓 Studying degree in **Software Engineer** and degree in **Accounting** and **Administration**.
 - 💬 Collaboration is the secret!;
 - 💬 Practitioner and Student of the best Softskills for life and performance;
 - 📄 Take a look at my [Resume](https://fcosta-dev.github.io);
