@@ -76,16 +76,6 @@ Olá a todos 👋 !! Eu sou de Uberlândia-MG, Brasil.
 </div>
 
  
-## **Github Streak**
- 
-
-<div align="center">
- <a href="https://git.io/streak-stats">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fcosta-dev" alt="fcosta-dev" />
- </a>
-</div>
-
- 
 ## **Main Technical Indicators**
 
 <div align="center">
