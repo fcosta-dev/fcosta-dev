@@ -1,6 +1,6 @@
 # Eu sou o Fernando 🚀 
 
-## ** Trabalhando com BitBucket. Eu não estou usando o github em meu atual trabalho, estou usando BitBucket.
+## ** Trabalhando com BitBucket. Eu não estou usando o Github em meu atual trabalho, estou usando BitBucket.
 
 Olá a todos 👋 !! Eu sou de Uberlândia-MG, Brasil.
 
@@ -67,7 +67,7 @@ Olá a todos 👋 !! Eu sou de Uberlândia-MG, Brasil.
 
  <p></p> 
  
-## **Github Trophies**
+## **Troféus Github**
 
 <div align="center">
  <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -76,7 +76,7 @@ Olá a todos 👋 !! Eu sou de Uberlândia-MG, Brasil.
 </div>
 
  
-## **Main Technical Indicators**
+## **Principais Indicadores Técnicos**
 
 <div align="center">
  <a href="https://github.com/fcosta-dev">
