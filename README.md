@@ -71,10 +71,9 @@ Olá a todos 👋 !! Eu sou de Uberlândia-MG, Brasil.
 
 <div align="center">
  <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img align="center" src="https://github-profile-trophy.vercel.app/?username=fcosta-dev&margin-w=20&no-bg=true&no-frame=true&row=1&column=6" />
+   <img align="center" src="https://github-profile-trophy.vercel.app/?username=fcosta-dev&theme=onedark&margin-w=20&no-bg=true&no-frame=true&row=1&column=6" />
  </a>
 </div>
-
  
 ## **Principais Indicadores Técnicos**
 
