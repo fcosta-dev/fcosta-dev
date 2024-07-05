@@ -100,5 +100,3 @@ Olá a todos 👋 !! Eu sou de Uberlândia-MG, Brasil.
  <span>    </span>
 </div>
 
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fcosta-dev&style=plastic" alt="Fernando Costa" /></p>
