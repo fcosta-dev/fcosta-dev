@@ -1,7 +1,5 @@
 # Eu sou o Fernando 🚀 
 
-## ** Trabalhando com BitBucket. Eu não estou usando o Github em meu atual trabalho, estou usando BitBucket.
-
 Olá a todos 👋 !! Eu sou de Uberlândia-MG, Brasil.
 
 - 👩🏽‍💻 Desenvolvedor Fullstack;
@@ -30,7 +28,6 @@ Olá a todos 👋 !! Eu sou de Uberlândia-MG, Brasil.
 ![NodeJS](https://img.shields.io/badge/node.js-03684f?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express-%23F05033.svg?style=for-the-badge&logo=express&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%23323330.svg?style=for-the-badge&logo=python&logoColor=%23F7DF1E)
 
 ### DB
 ![SQL](https://img.shields.io/badge/sql-%231572B6.svg?style=for-the-badge&logo=sql&logoColor=white)
