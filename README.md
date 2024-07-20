@@ -53,17 +53,25 @@ Olá a todos 👋 !! Eu sou de Uberlândia-MG, Brasil.
 ### Ferramentas
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket%20-%23F7DF1E.svg?&style=for-the-badge&color=2684FF)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Trello](https://img.shields.io/badge/trello-%23323330.svg?style=for-the-badge&logo=trello&logoColor=blue)
 ![Figma](https://img.shields.io/badge/figma-%23323330.svg?style=for-the-badge&logo=figma&logoColor=red)
 ![Miro](https://img.shields.io/badge/miro-%23323330.svg?style=for-the-badge&logo=miro&logoColor=yellow)
 ![Docker](https://img.shields.io/badge/docker-%2320232a.svg?style=for-the-badge&logo=docker&logoColor=%2361DAFB)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Metodologias Ágeis
 ![Kanban](https://img.shields.io/badge/kanban-black.svg?style=for-the-badge&logo=kanban&logoColor=white)
 ![Scrum](https://img.shields.io/badge/scrum-black.svg?style=for-the-badge&logo=scrum&logoColor=white)
+
+### Ferramentas de Metodologias Ágeis
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-2fabe0.svg?&style=for-the-badge&logo=microsoftazure&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-0B3A78?style=for-the-badge&logo=clickup&logoColor=white)
+![Trello](https://img.shields.io/badge/trello-%23323330.svg?style=for-the-badge&logo=trello&logoColor=blue)
 
 ### Communicação
 ![Slack](https://img.shields.io/badge/slack-%2320232a.svg?style=for-the-badge&logo=slack&logoColor=white)
