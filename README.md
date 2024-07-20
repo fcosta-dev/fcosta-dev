@@ -8,9 +8,18 @@ Olá a todos 👋 !! Eu sou de Uberlândia-MG, Brasil.
 - 🌱 Praticante e Estudante das melhores Softskills para vida e performance profissional;
 - 📄 Dê uma olhada em meu [Portfolio](https://fcosta.vercel.app);
 
+<br/>
 
-<br>
+## **Troféus Github**
+
+<div align="center">
+ <a href="https://github.com/ryo-ma/github-profile-trophy">
+   <img align="center" src="https://github-profile-trophy.vercel.app/?username=fcosta-dev&theme=transparent&margin-w=20&no-bg=true&no-frame=true&row=1&column=6" />
+ </a>
 </div>
+
+<br/>
+<br/>
 
 
 ## Linguagens e Ferramentas que eu Trabalho e Estudo
@@ -81,26 +90,12 @@ Olá a todos 👋 !! Eu sou de Uberlândia-MG, Brasil.
 <br/>
 <br/>
  
-## **Troféus Github**
-
-<div align="center">
- <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img align="center" src="https://github-profile-trophy.vercel.app/?username=fcosta-dev&theme=transparent&margin-w=20&no-bg=true&no-frame=true&row=1&column=6" />
- </a>
-</div>
-
-<br/>
-<br/>
 
 ## **Principais Indicadores Técnicos**
 
 <div align="center">
- <a href="https://github.com/fcosta-dev/github-readme-stats">
-   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fcosta-dev&theme=transparent" />
- </a>
- <a href="https://github.com/anuraghazra/convoychat">
-   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fcosta-dev&layout=compact&langs_count=8&card_width=320&theme=transparent" />
- </a>
+ <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fcosta-dev&show_icons=true&theme=transparent&count_private=true&include_all_commits=true&hide_border=true" alt="fcosta-dev" />
+ <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fcosta-dev&layout=compact&count_private=true&langs_count=8&card_width=320&theme=transparent&hide_border=true" alt="Top Languages" />
 </div>
 
 <br/>
@@ -110,7 +105,7 @@ Olá a todos 👋 !! Eu sou de Uberlândia-MG, Brasil.
 
 <div align="center">
  <a href="https://github.com/fcosta-dev">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fcosta-dev&theme=transparent" alt="fcosta-dev" />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fcosta-dev&theme=transparent&hide_border=true" alt="fcosta-dev" />
  </a>
 </div>
 
