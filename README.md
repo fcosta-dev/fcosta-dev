@@ -85,7 +85,7 @@ Olá a todos 👋 !! Eu sou de Uberlândia-MG, Brasil.
 
 <div align="center">
  <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img align="center" src="https://github-profile-trophy.vercel.app/?username=fcosta-dev&theme=onedark&margin-w=20&no-bg=true&no-frame=true&row=1&column=6" />
+   <img align="center" src="https://github-profile-trophy.vercel.app/?username=fcosta-dev&theme=transparent&margin-w=20&no-bg=true&no-frame=true&row=1&column=6" />
  </a>
 </div>
 
@@ -94,18 +94,37 @@ Olá a todos 👋 !! Eu sou de Uberlândia-MG, Brasil.
 
 ## **Principais Indicadores Técnicos**
 
+<a href="https://github.com/fcosta-dev/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fcosta-dev&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fcosta-dev&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+</a>
+
+<br/>
+<br/>
+
+## **Indicadores de Contribuição**
+
 <div align="center">
  <a href="https://github.com/fcosta-dev">
-   <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=fcosta-dev&show_icons=true" alt="fcosta-dev" />
- </a>
- <a href="https://github.com/fcosta-dev">
-   <img align="center" width="336px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcosta-dev&layout=compact" alt="fcosta-dev" />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fcosta-dev&theme=transparent" alt="fcosta-dev" />
  </a>
 </div>
-<p></p>
 
+<br/>
+<br/>
 
+## **Estatísticas de Resumo do Perfil**
 
+<div align="center">
+ <a href="https://github.com/fcosta-dev">
+   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fcosta-dev&theme=github_dark" />
+ </a>
+</div>
+
+<br/>
+<br/>
 
 ## **Me encontre**
 
