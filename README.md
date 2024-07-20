@@ -5,7 +5,7 @@ Olá a todos 👋 !! Eu sou de Uberlândia-MG, Brasil.
 - 👩🏽‍💻 Desenvolvedor Fullstack;
 - 👩🏽‍🎓 Estudando bacharelado em **Engenharia de Software** e formado em **Ciências Contábeis** e **Administração**.
 - 💬 Colaboração é o segredo!
-- 💬 Praticante e Estudante das melhores Softskills para vida e performance profissional;
+- 🌱 Praticante e Estudante das melhores Softskills para vida e performance profissional;
 - 📄 Dê uma olhada em meu [Portfolio](https://fcosta.vercel.app);
 
 
@@ -76,13 +76,10 @@ Olá a todos 👋 !! Eu sou de Uberlândia-MG, Brasil.
 ### Communicação
 ![Slack](https://img.shields.io/badge/slack-%2320232a.svg?style=for-the-badge&logo=slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/discord-%231572B6.svg?style=for-the-badge&logo=discord&logoColor=white)
-![googlechat](https://img.shields.io/badge/googlechat-black.svg?style=for-the-badge&logo=googlechat&logoColor=white)
+![Google Chat](https://img.shields.io/badge/googlechat-black.svg?style=for-the-badge&logo=googlechat&logoColor=white)
 
-<br>
-</p>
-
-
- <p></p> 
+<br/>
+<br/>
  
 ## **Troféus Github**
 
@@ -91,7 +88,10 @@ Olá a todos 👋 !! Eu sou de Uberlândia-MG, Brasil.
    <img align="center" src="https://github-profile-trophy.vercel.app/?username=fcosta-dev&theme=onedark&margin-w=20&no-bg=true&no-frame=true&row=1&column=6" />
  </a>
 </div>
- 
+
+<br/>
+<br/>
+
 ## **Principais Indicadores Técnicos**
 
 <div align="center">
@@ -103,6 +103,9 @@ Olá a todos 👋 !! Eu sou de Uberlândia-MG, Brasil.
  </a>
 </div>
 <p></p>
+
+
+
 
 ## **Me encontre**
 
