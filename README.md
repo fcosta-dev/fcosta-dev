@@ -4,7 +4,7 @@ Olá a todos 👋 !! Eu sou de Uberlândia-MG, Brasil.
 
 - 👩🏽‍💻 Desenvolvedor Fullstack;
 - 👩🏽‍🎓 Estudando bacharelado em **Engenharia de Software** e formado em **Ciências Contábeis** e **Administração**.
-- 💬 Collaboração é o segredo!
+- 💬 Colaboração é o segredo!
 - 💬 Praticante e Estudante das melhores Softskills para vida e performance profissional;
 - 📄 Dê uma olhada em meu [Portfolio](https://fcosta.vercel.app);
 
