@@ -6,7 +6,6 @@ Olá a todos 👋 !! Eu sou de Uberlândia-MG, Brasil.
 - 👩🏽‍🎓 Estudando bacharelado em **Engenharia de Software** e formado em **Ciências Contábeis** e **Administração**.
 - 💬 Colaboração é o segredo!
 - 🌱 Praticante e Estudante das melhores Softskills para vida e performance profissional;
-- 📄 Dê uma olhada em meu [Portfolio](https://fcosta.vercel.app);
 
 <br/>
 
@@ -123,16 +122,4 @@ Olá a todos 👋 !! Eu sou de Uberlândia-MG, Brasil.
 <br/>
 <br/>
 
-## **Me encontre**
-
-<div align="center">
- <a href="https://www.linkedin.com/in/fcosta-dev">
-   <img align="center" src="https://img.shields.io/static/v1?logo=linkedin&label=linkedin&message=fcosta-dev&color=blue&style=for-the-badge" height=25 width=180/>
- </a>
- <span>    </span>
- <a href="https://fcosta.vercel.app">
-   <img align="center" src="https://img.shields.io/static/v1?&label=Portfolio&message=site&color=yellow&style=for-the-badge" height=25 width=160/>
- </a>
- <span>    </span>
-</div>
 
